@@ -1,1 +1,2 @@
 # Task-1
+This program is a calculator run at the command line, which can perform different mathematical functions. A menu of possibilities is displayed to the user: addition, subtraction, multiplication, division, floor division, modulus, exponentiation. The user enters the number of an operation, and it performs the result given two numbers. This calculator remains active to perform new actions until the user decides to quit it by clicking the exit button.
